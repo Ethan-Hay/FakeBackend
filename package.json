@@ -1,0 +1,20 @@
+{
+  "name": "fakebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server -p 3007 -w db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethan-Hay/FakeBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ethan-Hay/FakeBackend/issues"
+  },
+  "homepage": "https://github.com/Ethan-Hay/FakeBackend#readme"
+}
