@@ -1,0 +1,12 @@
+{
+    "servoDrive": [
+        {
+            "id":1,
+            "rpm":8,
+            "temperature":73,
+            "mode":"Soft Open",
+            "position":179,
+            "timestamp": "13:59"
+        }
+    ]
+}
