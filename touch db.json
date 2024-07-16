@@ -7,6 +7,14 @@
             "mode":"Soft Open",
             "position":179,
             "timestamp": "13:59"
+        },
+        {
+            "id":2,
+            "rpm":5,
+            "temperature":68,
+            "mode":"Soft Close",
+            "position":90,
+            "timestamp": "17:33"
         }
     ]
 }
